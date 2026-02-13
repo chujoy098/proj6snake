@@ -9,8 +9,8 @@ Sam - User input, finishing game cycle, Readme file.
 **HOW TO PLAY**
 
 1. Clone repo:
-  `git clone github.com/chujoy098/proj6snake
-  cd proj6snake`
+  `git clone github.com/chujoy098/proj6snake`
+  `cd proj6snake`
 
 3. Compile in terminal:
   `g++ main.cpp main.h`
